@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1253735047782167100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1253735047782167101}
+  - component: {fileID: 742722909745058372}
+  m_Layer: 0
+  m_Name: Reference Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1253735047782167101
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253735047782167100}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &742722909745058372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253735047782167100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d561a6008bb262429d0785b6611ee40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontDestroyOnLoad: 1
+  platformsItems:
+  - {fileID: 11400000, guid: 5e3923a50102e0241be8e1ff88efa0b0, type: 2}
+  - {fileID: 11400000, guid: a3089b616f22b704db1eaea90b310cfc, type: 2}
+  - {fileID: 11400000, guid: 8633202bfab4bff46af0d845812af8ff, type: 2}
+  - {fileID: 11400000, guid: 8ba5d24754218274e898524c9d0b0410, type: 2}
+  - {fileID: 11400000, guid: a08627bb5109ecf47bea42a325a76115, type: 2}
+  - {fileID: 11400000, guid: df0d42a6821ec7f4d9c7590f98607dbd, type: 2}
+  - {fileID: 11400000, guid: fdd4e4129f017ee40907489b1996d322, type: 2}
+  - {fileID: 11400000, guid: 51ce9e65b9b090b47b17a0fd73baeeee, type: 2}
+  - {fileID: 11400000, guid: 6b735b3e337257c448fe48e35fd4e471, type: 2}
+  - {fileID: 11400000, guid: 71bfbcbf06981e546b1836d2aa0075d2, type: 2}
+  - {fileID: 11400000, guid: b0481157752b0fc478323b39ecf6b6c9, type: 2}
+  circleScaleUpMat: {fileID: 2100000, guid: a57e091a6698c1e44b67a10043ece24a, type: 2}
+  circleScaleDownMat: {fileID: 2100000, guid: 779b6f1652b0697468031cfccbbccb6c, type: 2}
+  pulseScaleUpMat: {fileID: 2100000, guid: 46967361c7fb43d49acb98451af46fac, type: 2}
+  pulseScaleDownMat: {fileID: 2100000, guid: 4d43fc237a1537b4fb2143b415a2238e, type: 2}
+  canPlatformsMove: 1
+  currentPlatformIndex: 0

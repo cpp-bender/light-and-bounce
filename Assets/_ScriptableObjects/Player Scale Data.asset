@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1266d52b73fdbcb4ab001f5eb896e732, type: 3}
+  m_Name: Player Scale Data
+  m_EditorClassIdentifier: 
+  scaleOffset: 0.15
+  minScale: 1
+  maxScale: 2.5
+  fakePlayerPrefab: {fileID: 8811241327858292487, guid: 351e99dcbf4a1ed4c8ceb7ba160e23d3, type: 3}
+  scaleBaseMat: {fileID: 2100000, guid: 8b254db40e9331645bbc43fc6632273a, type: 2}
+  scaleFakeMat: {fileID: 2100000, guid: c79cbd6a336e5054ba62efcfd28f550d, type: 2}
+  scaleUpColor: {r: 0.107794166, g: 1, b: 0, a: 1}
+  scaleDownColor: {r: 1, g: 0, b: 0.009691238, a: 1}
+  minRadius: 0.35
+  maxRadius: 0.75
+  radiusOffset: 0.07
+  easeType: 1
+  autoKill: 1
+  recyclable: 1
+  duration: 0.5
+  scaleUpTweenID: playerScaleUp
+  scaleDownTweenID: playerScaleDown

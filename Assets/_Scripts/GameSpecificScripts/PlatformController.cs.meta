@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d37612761157d6140acf41f724ca9ed6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameAreaSpawner: {instanceID: 0}
+  - lowerSmashable: {instanceID: 0}
+  - upperSmashable: {instanceID: 0}
+  - upForce: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+  - downForce: {fileID: 1137714417390703152, guid: 688e54913d204d6459908e728ef8edb5, type: 3}
+  - lowerCollectible: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+  - upperCollectible: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+  - lowerWallPrefab1: {fileID: 1482404477141629132, guid: 5b33c5eaacdd92c49b2e04e86a8a80bb, type: 3}
+  - lowerWallPrefab2: {fileID: 1821545388381105071, guid: bf6ebdef2d0fd7b48982f4bf102a57bd, type: 3}
+  - lowerWallPrefab3: {fileID: 7760563270446846029, guid: 2e9973ee990f14a4eae3107011a5413a, type: 3}
+  - lowerWallPrefab4: {fileID: 5407966577656299923, guid: 770d0e042845b4c4495774cd5bb3105a, type: 3}
+  - lowerWallPrefab5: {fileID: 7339221022623860420, guid: f96e7a63cf1a6a34aae208e3b078c50c, type: 3}
+  - lowerWallPrefab6: {fileID: 3473705320128526536, guid: 44c6fbae9cc4bc64fb94a4121980e6a0, type: 3}
+  - upperWallPrefab1: {fileID: 1482404477141629132, guid: fd87108e9bbcc4945b682f571d119a54, type: 3}
+  - upperWallPrefab2: {fileID: 3047581177414814338, guid: 26f2007c60be69944a3369f091393af3, type: 3}
+  - upperWallPrefab3: {fileID: 1800737274210684085, guid: b7fe89ba49cb5c344b30d2e998c6c3ad, type: 3}
+  - upperWallPrefab4: {fileID: 2381690995164949951, guid: d55b0d4e763562349ba3a43f6db25cee, type: 3}
+  - upperWallPrefab5: {fileID: 544626571273325077, guid: 020e18afbc2c15c46a5633fc80a23d96, type: 3}
+  - upperWallPrefab6: {fileID: 6514060159145575668, guid: 9e30c04480446004a82279120fdad229, type: 3}
+  - itemsOnPlatform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

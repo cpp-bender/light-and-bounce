@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87e36801a17dbf945b7e4bff6920925a, type: 3}
+  m_Name: Item Picker Data - Level 6
+  m_EditorClassIdentifier: 
+  platformItems:
+  - platformIndex: 4
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: -1
+    posZ: 0
+  - platformIndex: 6
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: -1
+    posZ: 0
+  - platformIndex: 8
+    platformPrefab: {fileID: 5986019570905551478, guid: 50c3ca5a64d447f438114223e8bfae78, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 10
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 13
+    platformPrefab: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 15
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 16
+    platformPrefab: {fileID: 7771077507706124078, guid: f30e1ce2af4507442b9263a05fb39179, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 18
+    platformPrefab: {fileID: 6756345246875420237, guid: f29ad3d39bd84c14ab3b65b15b873edf, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 19
+    platformPrefab: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+    posX: -1.4
+    posZ: 0
+  - platformIndex: 20
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 22
+    platformPrefab: {fileID: 1137714417390703152, guid: 688e54913d204d6459908e728ef8edb5, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 23
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 25
+    platformPrefab: {fileID: 2948580864657561360, guid: 0dd095144315fa941bdee9426779b17e, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 27
+    platformPrefab: {fileID: 4439309169357433401, guid: 19b2007c29172b84783036eb42b88f4f, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 29
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 1
+    posZ: 0
+  - platformIndex: 30
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: 2.1
+    posZ: 0
+  - platformIndex: 31
+    platformPrefab: {fileID: 5986019570905551478, guid: 50c3ca5a64d447f438114223e8bfae78, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 32
+    platformPrefab: {fileID: 1137714417390703152, guid: 688e54913d204d6459908e728ef8edb5, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 35
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 38
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: -1
+    posZ: 0
+  - platformIndex: 40
+    platformPrefab: {fileID: 6756345246875420237, guid: b4c1b0f8c5f198644802fdf4acf17504, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 41
+    platformPrefab: {fileID: 691687680398350361, guid: 7229d5a0afba55e4c9b6e263f1abad11, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 43
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 2
+    posZ: 0
+  - platformIndex: 45
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: -1
+    posZ: 0
+  - platformIndex: 46
+    platformPrefab: {fileID: 1137714417390703152, guid: 688e54913d204d6459908e728ef8edb5, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 47
+    platformPrefab: {fileID: 4439309169357433401, guid: 19b2007c29172b84783036eb42b88f4f, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 50
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0.4
+    posZ: 0
+  - platformIndex: 51
+    platformPrefab: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+    posX: -1.6
+    posZ: 0
+  - platformIndex: 54
+    platformPrefab: {fileID: 7771077507706124078, guid: f30e1ce2af4507442b9263a05fb39179, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 55
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 1
+    posZ: 0
+  - platformIndex: 58
+    platformPrefab: {fileID: 1137714417390703152, guid: 688e54913d204d6459908e728ef8edb5, type: 3}
+    posX: 2.1
+    posZ: 0
+  - platformIndex: 60
+    platformPrefab: {fileID: 691687680398350361, guid: 7229d5a0afba55e4c9b6e263f1abad11, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 63
+    platformPrefab: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 66
+    platformPrefab: {fileID: 4439309169357433401, guid: 19b2007c29172b84783036eb42b88f4f, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 67
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 68
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 69
+    platformPrefab: {fileID: 6756345246875420237, guid: b4c1b0f8c5f198644802fdf4acf17504, type: 3}
+    posX: 1
+    posZ: 0
+  - platformIndex: 71
+    platformPrefab: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+    posX: -0.2
+    posZ: 0
+  - platformIndex: 72
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: 1.6
+    posZ: 0
+  - platformIndex: 75
+    platformPrefab: {fileID: 6756345246875420237, guid: f29ad3d39bd84c14ab3b65b15b873edf, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 77
+    platformPrefab: {fileID: 1137714417390703152, guid: 688e54913d204d6459908e728ef8edb5, type: 3}
+    posX: -1
+    posZ: 0
+  - platformIndex: 79
+    platformPrefab: {fileID: 5986019570905551478, guid: c0d056e6e11137b4b98aa5fa59beba12, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 81
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 83
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 85
+    platformPrefab: {fileID: 5986019570905551478, guid: c0d056e6e11137b4b98aa5fa59beba12, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 86
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: -1
+    posZ: 0
+  - platformIndex: 88
+    platformPrefab: {fileID: 5793692885392110987, guid: c88351b6f969c6a41a98f36a95e185ed, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 90
+    platformPrefab: {fileID: 7771077507706124078, guid: f30e1ce2af4507442b9263a05fb39179, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 92
+    platformPrefab: {fileID: 5986019570905551478, guid: 50c3ca5a64d447f438114223e8bfae78, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 95
+    platformPrefab: {fileID: 6756345246875420237, guid: b4c1b0f8c5f198644802fdf4acf17504, type: 3}
+    posX: 0
+    posZ: 0
+  - platformIndex: 96
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: -2
+    posZ: 0
+  - platformIndex: 97
+    platformPrefab: {fileID: 8085399668903194479, guid: 7e20437184a1fa041a15ac36cf17e998, type: 3}
+    posX: -0.3
+    posZ: 0
+  - platformIndex: 100
+    platformPrefab: {fileID: 8085399668903194479, guid: 5bce65e9395deae4a905deac782c1f20, type: 3}
+    posX: 0.3
+    posZ: 0
